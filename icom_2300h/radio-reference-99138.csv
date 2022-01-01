@@ -1,0 +1,12 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+0,Republic FD,153.845000,split,158.805000,TSQL,91.5,91.5,023,NN,NFM,5.00,,Republic Fire Dispatch,,,,
+1,FCSO Talk,154.755000,,0.600000,,88.5,88.5,023,NN,NFM,5.00,,Sheriff Talk,,,,
+2,FCSO Disp,155.250000,,0.600000,,88.5,88.5,023,NN,NFM,5.00,,Sheriff Dispatch,,,,
+3,FCSO,155.565000,,0.600000,,88.5,88.5,023,NN,NFM,5.00,,Sheriff,,,,
+4,FCSO,155.595000,,0.600000,,88.5,88.5,023,NN,NFM,5.00,,Sheriff,,,,
+5,FCSO Disp,156.090000,split,158.850000,TSQL,179.9,179.9,023,NN,NFM,5.00,,Sheriff Dispatch,,,,
+6,FC Highways,453.587500,split,458.587500,,88.5,88.5,023,NN,NFM,5.00,,Highway Department,,,,
+7,FerryCo PUD1,153.695000,,0.600000,,88.5,88.5,023,NN,NFM,5.00,,Public Utilities District 1,,,,
+8,FCPW Tac,153.935000,,0.600000,TSQL,141.3,141.3,023,NN,NFM,5.00,,Public Works Tactical,,,,
+9,N7XAY 145.19,145.190000,split,144.590000,,88.5,88.5,023,NN,FM,5.00,,"Republic Linked to Methow, Omak has Echolink",,,,
+10,Rose Valley,147.550000,,0.600000,,88.5,88.5,023,NN,FM,5.00,,Rose Valley Repeater System Low Power,,,,

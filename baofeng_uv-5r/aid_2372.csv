@@ -1,0 +1,72 @@
+Frequency Output,Frequency Input,FCC Callsign,Agency/Category,Description,Alpha Tag,PL Tone,Mode,Class Station Code,Tag
+151.21250,0.00000,KE9669,WA Natural Resources Tactical,Tactical 4,DNR Tac 4,,FMN,M,Multi-Tac
+151.28750,0.00000,,WA Natural Resources Aircraft,Aircraft To Ground 2,DNR Air 2,103.5 PL,FMN,M,Fire-Talk
+151.31000,0.00000,KE9669,WA Natural Resources Tactical,Tactical 1,DNR Tac 1,103.5 PL,FMN,M,Multi-Tac
+151.34000,0.00000,KE9669,WA Natural Resources Tactical,Tactical 2,DNR Tac 2,103.5 PL,FMN,M,Multi-Tac
+151.38500,0.00000,KE9669,WA Natural Resources Tactical,Tactical 3,DNR Tac 3,,FMN,M,Multi-Tac
+151.40000,159.28500,WNAS693,WA Natural Resources Southeast Region,Whiskey Dick Mountain Area,DNR Whiskey,103.5 PL,FMN,RM,Fire-Talk
+151.41500,0.00000,KE9669,WA Natural Resources Tactical,Statewide Common,DNR Common,103.5 PL,FMN,M,Interop
+151.47500,0.00000,,WA Natural Resources Pacific Cascade Region,Abernathy,DNR Abernath,173.8 PL,FMN,BM,Fire-Talk
+155.76000,151.13000,,WA Natural Resources Olympic Region,Wishkah,DNR Wishkah,114.8 PL,FMN,RM,Fire-Talk
+159.12750,151.37750,KCU797,WA Natural Resources Pacific Cascade Region,Naselle,DNR Naselle,186.2 PL,FMN,RM,Fire-Talk
+159.18750,151.16750,WPCH320,WA Natural Resources Pacific Cascade Region,Hopkins,DNR Hopkins,136.5 PL,FMN,RM,Fire-Talk
+159.20250,151.21250,KJY894,WA Natural Resources Olympic Region,Hoh,DNR Hoh,365 DPL,FMN,RM,Fire-Talk
+159.20250,151.21250,WNGV460,WA Natural Resources Pacific Cascade Region,Mitchell,DNR Mitchell,136.5 PL,FMN,RM,Fire-Talk
+159.21750,151.14500,WNHV240,WA Natural Resources Pacific Cascade Region,Burley,DNR Burley,173.8 PL,FMN,RM,Fire-Talk
+159.22500,151.47500,KCU800,WA Natural Resources Southeast Region,Chelan Area,DNR Chelan,156.7 PL,FMN,RM,Fire-Talk
+159.22500,151.34000,KCU809,WA Natural Resources South Puget Region,Olympia Capitol Peak,DNR Capitol,136.5 PL,FMN,RM,Fire-Talk
+159.24000,151.23500,WNSX295,WA Natural Resources Northwest Region,Orcas Area,DNR Orcas,114.8 PL,FMN,RM,Fire-Talk
+159.24000,151.26500,KE9669,WA Natural Resources Tactical,Statewide Repeater 3,DNR Rptr 3,,FMN,BM,Fire-Tac
+159.24000,151.26500,WNVH522,WA Natural Resources Northeast Region,Lincoln,DNR Lincoln,156.7 PL,FMN,RM,Fire-Talk
+159.24750,151.19750,WQCT259,WA Natural Resources Pacific Cascade Region,Kalama,DNR Kalama,136.5 PL,FMN,RM,Fire-Talk
+159.25500,151.20500,KCU803,WA Natural Resources Olympic Region,Ozette,DNR Ozette,192.8 PL,FMN,RM,Fire-Talk
+159.25500,151.20500,KNFJ396,WA Natural Resources South Puget Region,Belfair,DNR Belfair,114.8 PL,FMN,RM,Fire-Talk
+159.25500,151.18250,WQBQ378,WA Natural Resources Southeast Region,Sedge Area,DNR Sedge,107.2 PL,FMN,RM,Fire-Talk
+159.27000,0.00000,KQP444,WA Natural Resources Aircraft,Aircraft To Ground 1,DNR Air 1,103.5 PL,FMN,M,Fire-Talk
+159.28500,151.27250,WQDR962,WA Natural Resources South Puget Region,Thurston,DNR Thurston,244 DPL,FMN,RM,Fire-Talk
+159.28500,151.38500,WPFJ752,WA Natural Resources Northwest Region,Sauk Area,DNR Sauk,141.3 PL,FMN,RM,Fire-Talk
+159.29250,151.39250,KNFJ396,WA Natural Resources South Puget Region,North Bend,DNR NorthBnd,114.8 PL,FMN,RM,Fire-Talk
+159.30000,151.25750,KNFJ408,WA Natural Resources Southeast Region,Grayback Area,DNR Grayback,103.5 PL,FMN,RM,Fire-Talk
+159.30000,151.26500,WNFD816,WA Natural Resources Olympic Region,Straits,DNR Straits,173.8 PL,FMN,RM,Fire-Talk
+159.30000,151.23500,WPYT851,WA Natural Resources Pacific Cascade Region,Signal Peak,DNR SignalPk,162.2 PL,FMN,RM,Fire-Talk
+159.30750,151.22750,KNFJ398,WA Natural Resources South Puget Region,Eatonville,DNR Eatonvil,114.8 PL,FMN,RM,Fire-Talk
+159.31500,151.17500,WNUS280,WA Natural Resources South Puget Region,Shelton,DNR Shelton,127.3 PL,FMN,RM,Fire-Talk
+159.31500,151.30250,KCU801,WA Natural Resources Northeast Region,Okanogan,DNR Okanogan,156.7 PL,FMN,RM,Fire-Talk
+159.31500,151.32500,WNRR569,WA Natural Resources Northwest Region,Sumas Area,DNR Sumas,141.3 PL,FMN,RM,Fire-Talk
+159.32250,151.36250,WQHY729,WA Natural Resources Southeast Region,Naneum Area,DNR Naneum,023 DPL,FMN,RM,Fire-Talk
+159.33000,151.25000,WNGV460,WA Natural Resources Pacific Cascade Region,Nicolai,DNR Nicolai,136.5 PL,FMN,RM,Fire-Talk
+159.33000,151.16750,KE9669,WA Natural Resources Tactical,Statewide Repeater 4,DNR Rptr 4,,FMN,BM,Fire-Tac
+159.33000,151.25000,,WA Natural Resources Northwest Region,Arlington Area,DNR Arlingtn,156.7 PL,FMN,RM,Fire-Talk
+159.33550,0.00000,KE9669,WA Natural Resources Tactical,Tactical 5,DNR Tac 5,,FMN,M,Multi-Tac
+159.33750,151.27250,KCU796,WA Natural Resources Tactical,Statewide Repeater 6,DNR Rptr 6,156 DPL,FMN,RM,Fire-Tac
+159.34500,151.16000,KNDN736,WA Natural Resources Olympic Region,Canal,DNR Canal,103.5 PL,FMN,RM,Fire-Talk
+159.34500,151.38500,KNDN735,WA Natural Resources Northeast Region,DNR Twisp,Twisp,156.7 PL,FMN,RM,Fire-Talk
+159.34500,151.46750,KCU799,WA Natural Resources Southeast Region,Clemans Area,DNR Clemans,114.8 PL,FMN,RM,Fire-Talk
+159.35250,151.25000,WNGX582,WA Natural Resources Southeast Region,Juniper Area,DNR Juniper,114.8 PL,FMN,RM,Fire-Talk
+159.36000,151.37000,,WA Natural Resources South Puget Region,Carbon,DNR Carbon,072 DPL,FMN,RM,Fire-Talk
+159.36000,151.37750,KNFJ403,WA Natural Resources Northwest Region,Stevens Area,DNR Stevens,141.3 PL,FMN,RM,Fire-Talk
+159.36000,151.23500,KNGC335,WA Natural Resources Northeast Region,Republic,DNR Republic,118.8 PL,FMN,RM,Fire-Talk
+159.36750,151.25750,KCU801,WA Natural Resources Northeast Region,Tonasket,DNR Tonasket,156.7 PL,FMN,RM,Fire-Talk
+159.36750,151.46750,WQCP213,WA Natural Resources Northeast Region,Cheney,DNR Cheney,156.7 PL,FMN,RM,Fire-Talk
+159.36750,151.44500,KNFJ407,WA Natural Resources Southeast Region,Peoh Area,DNR Peoh,141.3 PL,FMN,RM,Fire-Talk
+159.37500,151.37000,WPFJ752,WA Natural Resources Southeast Region,SE Defiance Area,DNR SE Defi,127.3 PL,FMN,RM,Fire-Talk
+159.37500,151.37000,WRA597,WA Natural Resources Northwest Region,Lyman Area,DNR Lyman,141.3 PL,FMN,RM,Fire-Talk
+159.37500,151.32500,KE9669,WA Natural Resources Tactical,Statewide Repeater 5,DNR Rptr 5,,FMN,BM,Fire-Tac
+159.38250,151.40000,WPCH324,WA Natural Resources Pacific Cascade Region,Baw Faw,DNR BawFaw,136.5 PL,FMN,RM,Fire-Talk
+159.40500,151.22000,,WA Natural Resources Olympic Region,Discovery,DNR Discover,103.5 PL,FMN,RM,Fire-Talk
+159.40500,151.25000,KNDV366,WA Natural Resources Northeast Region,Deer Park,DNR Deer Prk,156.7 PL,FMN,RM,Fire-Talk
+159.41250,151.44500,KE9669,WA Natural Resources Tactical,Statewide Repeater 1,DNR Rptr 1,,FMN,BM,Fire-Tac
+159.42000,151.29500,KE9669,WA Natural Resources Tactical,State,DNR State,CSQ,FMN,RM,Multi-Tac
+159.42000,151.29500,,WA Natural Resources Southeast Region  Snake River Area,Asotin Area,DNR Asotin,365 DPL,FMN,RM,Fire-Talk
+159.42000,151.29500,,WA Natural Resources Southeast Region  Snake River Area,Dayton Area,DNR Dayton,223 DPL,FMN,RM,Fire-Talk
+159.42000,151.29500,,WA Natural Resources Southeast Region  Snake River Area,Pasco Area,DNR Pasco,271 DPL,FMN,RM,Fire-Talk
+159.42750,151.27250,KE9669,WA Natural Resources Tactical,Statewide Repeater 2,DNR Rptr 2,,FMN,BM,Fire-Tac
+159.42750,151.38500,KCU796,WA Natural Resources Pacific Cascade Region,Larch,DNR Larch,136.5 PL,FMN,RM,Fire-Talk
+159.43500,151.19000,WPFJ752,WA Natural Resources Northwest Region,Snohomish Area,DNR Snohomsh,141.3 PL,FMN,RM,Fire-Talk
+159.43500,151.24250,KNDN735,WA Natural Resources Northeast Region,Brewster,DNR Brewster,123.0 PL,FMN,RM,Fire-Talk
+159.43500,151.16000,KCV388,WA Natural Resources Northeast Region,Colville,DNR Colville,156.7 PL,FMN,RM,Fire-Talk
+159.44250,151.21250,KNIS356,WA Natural Resources Southeast Region,Badger Area,DNR Badger,127.3 PL,FMN,RM,Fire-Talk
+159.45000,151.46000,KCV388,WA Natural Resources Northeast Region,Chewelah,DNR Chewelah,156.7 PL,FMN,RM,Fire-Talk
+159.45000,151.32500,WNGV460,WA Natural Resources Pacific Cascade Region,Defiance,DNR Defiance,136.5 PL,FMN,RM,Fire-Talk
+159.45750,151.36250,KBB856,WA Natural Resources Olympic Region,Quinault,DNR Quinault,127.3 PL,FMN,RM,Fire-Talk
+159.45750,151.25750,KNFJ403,WA Natural Resources South Puget Region,Enumclaw,DNR Enumclaw,141.3 PL,FMN,RM,Fire-Talk
